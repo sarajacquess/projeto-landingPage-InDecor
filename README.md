@@ -7,4 +7,5 @@
 + JavaScript
 
 Link do site disponibilizado: https://projeto1-dnc-indecor-landingpage.netlify.app/
+
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1Max8YOcGTtSyi4wOw5WM9srcuCdd3jhUeBMuE57OZYU/edit?usp=sharing
